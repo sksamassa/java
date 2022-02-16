@@ -5,5 +5,6 @@ public class Main {
              * Initiation a github
              */
             System.out.println("Hello world !");
+            System.out.println("all programmers are lazy");
         }
 }
